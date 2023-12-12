@@ -1,0 +1,16 @@
+body{
+
+    background-color: #166677;
+}
+
+.form-style{
+
+text-align: center;
+}
+
+.input-style {
+    border: 0.5px solid rgb(12, 68, 181);
+    border-radius: 50px;
+    transition: 2s;
+
+  }
